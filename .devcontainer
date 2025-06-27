@@ -1,0 +1,8 @@
+"hostRequirements": {
+  "cypus": 4,
+  "memory": "8gb"
+},
+
+"features": {
+  "ghrc.io/devcontainers/features/common-utils:latest": {}
+}
